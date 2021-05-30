@@ -1,4 +1,4 @@
-*** please click the link view thw project: https://weather-app-deploy.netlify.app/
+***** please click the link view thw project: https://weather-app-deploy.netlify.app/
 
 # Getting Started with Create React App
 
