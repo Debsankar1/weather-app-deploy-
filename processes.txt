@@ -1,0 +1,20 @@
+npx create-react-app ./
+
+all src file deleted then create a new src file create index.js , app.js 
+
+use impoer react lib 
+
+use some (const function use =() => {return(...) ... };
+
+5.npm start
+6.npm install --save axios
+7.app.js use hooks concepts then call api and showing the output 
+
+
+
+
+
+https://weatherbit-v1-mashape.p.rapidapi.com/alerts
+25c385f65bmshf59cf77f0f11986p1576a0jsna6f21510aa40
+
+http://api.weatherstack.com/current?access_key=ee2c00a09ba65e4467143d28625d3fa2&query=$
